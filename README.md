@@ -14,6 +14,10 @@ Once the application is running you will have access to all of the CRUD operatio
 
 ![CRUD Operations](./images/CRUD%20ops.png)
 
+# Walkthrough
+
+[Watch CRUD operations in action!](https://watch.screencastify.com/v/qORUHsH0K1efifd0tDNC)
+
 
 # License 
 MIT License
